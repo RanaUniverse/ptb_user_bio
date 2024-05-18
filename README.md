@@ -9,7 +9,8 @@ see first i run this code in vs code
 ![image](https://github.com/RanaUniverse/ptb_user_bio/assets/142967497/769faf29-85ce-4255-bd5f-1ab51385a91a)
 i edit my bio, still see the response it shows me old bio
 
-![Uploading image.png…]()
+![image](https://github.com/RanaUniverse/ptb_user_bio/assets/142967497/1bb00619-a6da-4d0d-b529-558d37657032)
+
 
 
 
